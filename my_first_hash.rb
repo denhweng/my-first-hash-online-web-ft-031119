@@ -26,5 +26,5 @@ def adding
                  }
   shipping_manifest["mustkets"] = 2 
   shipping_manifest["gun powder"] = 4 
-  p shipping_manifest
+  shipping_manifest
 end
